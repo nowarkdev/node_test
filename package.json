@@ -1,0 +1,19 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "Node attended test",
+  "main": "app.js",
+  "scripts": {
+    "start": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowarkdev/node_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
